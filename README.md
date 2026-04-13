@@ -1,6 +1,6 @@
 # Hi there, I'm Yassine Maarouf! 👋
 
-Welcome to my GitHub profile. I am a passionate developer from Marrakesh, Morocco, specializing in **Computer Vision** and **Digital Image Processing**.
+Welcome to my GitHub profile. I am a passionate developer from Tantan, Morocco, specializing in **Computer Vision** and **Digital Image Processing**.
 
 ## 🔭 What I'm working on
 - Exploring spatial filtering, noise reduction, and advanced segmentation algorithms (like Region Growing and Split and Merge).
